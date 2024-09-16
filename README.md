@@ -1,3 +1,5 @@
+Visualizar projeto on-line em https://rogerio-s.github.io/portfolio-html-css/
+
 Projeto do Canal
 How to Web Dev no YT
 https://www.youtube.com/watch?v=Dtb3DdSvYRY&ab_channel=HowtoWebDev
